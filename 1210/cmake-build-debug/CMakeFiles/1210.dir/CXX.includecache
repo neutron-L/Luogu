@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/algorithm/luogu/1210/main.cpp
+stdio.h
+-
+iostream
+-
+vector
+-
+cmath
+-
+stdio.h
+-
+iostream
+-
+string.h
+-
+

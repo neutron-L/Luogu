@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/algorithm/luogu/P1126/main.cpp
+iostream
+-
+vector
+-
+set
+-
+queue
+-
+iostream
+-
+iostream
+-
+vector
+-
+

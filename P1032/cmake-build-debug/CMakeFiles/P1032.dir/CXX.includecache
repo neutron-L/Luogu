@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/algorithm/luogu/P1032/main.cpp
+iostream
+-
+string
+-
+cstring
+-
+queue
+-
+map
+-
+bits/stdc++.h
+-
+queue
+-
+set
+-
+
